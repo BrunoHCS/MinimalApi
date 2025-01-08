@@ -36,7 +36,7 @@ namespace MinimalApi.Dominio.Servicos
             _dbContexto.SaveChanges();
         }
 
-        public List<Veiculo> Todos(int pagina = 1, int quantidade = 10)
+        public List<Veiculo> Todos(int pagina, int quantidade)
         {
             var listaVeiculos = _dbContexto.Veiculos.Skip((pagina - 1) * quantidade).Take(quantidade).ToList();
 
