@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\dominio\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:dominio\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\minimalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:minimalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,35 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MinimalApi.csproj",
-              "DocumentMoniker": "C:\\dev\\MinimalApi\\MinimalApi.csproj",
-              "RelativeDocumentMoniker": "MinimalApi.csproj",
-              "ToolTip": "C:\\dev\\MinimalApi\\MinimalApi.csproj",
-              "RelativeToolTip": "MinimalApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T13:08:14.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\dev\\MinimalApi\\Dominio\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "Dominio\\DTO\\LoginDTO.cs",
-              "ToolTip": "C:\\dev\\MinimalApi\\Dominio\\DTO\\LoginDTO.cs",
-              "RelativeToolTip": "Dominio\\DTO\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:06:25.826Z"
             },
             {
               "$type": "Document",
@@ -68,34 +32,23 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\dev\\MinimalApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:05:47.674Z",
+              "WhenOpened": "2025-01-08T13:33:35.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\dev\\MinimalApi\\Dominio\\Entidades\\Administrador.cs",
-              "RelativeDocumentMoniker": "Dominio\\Entidades\\Administrador.cs",
-              "ToolTip": "C:\\dev\\MinimalApi\\Dominio\\Entidades\\Administrador.cs",
-              "RelativeToolTip": "Dominio\\Entidades\\Administrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:01:24.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DbContexto.cs",
               "DocumentMoniker": "C:\\dev\\MinimalApi\\Infraestrutura\\Db\\DbContexto.cs",
               "RelativeDocumentMoniker": "Infraestrutura\\Db\\DbContexto.cs",
               "ToolTip": "C:\\dev\\MinimalApi\\Infraestrutura\\Db\\DbContexto.cs",
               "RelativeToolTip": "Infraestrutura\\Db\\DbContexto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:00:35.277Z"
+              "WhenOpened": "2025-01-08T13:00:35.277Z",
+              "EditorCaption": ""
             }
           ]
         }

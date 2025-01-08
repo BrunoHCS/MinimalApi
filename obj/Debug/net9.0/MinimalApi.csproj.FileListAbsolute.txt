@@ -150,3 +150,9 @@ C:\dev\MinimalApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extens
 C:\dev\MinimalApi\obj\Debug\net9.0\MinimalApi.csproj.AssemblyReference.cache
 C:\dev\MinimalApi\obj\Debug\net9.0\MinimalApi.csproj.Up2Date
 C:\dev\MinimalApi\obj\Debug\net9.0\MinimalApi.sourcelink.json
+C:\dev\MinimalApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\dev\MinimalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\MinimalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\MinimalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\MinimalApi\obj\Debug\net9.0\MinimalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\MinimalApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
