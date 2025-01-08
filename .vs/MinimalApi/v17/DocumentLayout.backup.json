@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\MinimalApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5390908-4084-4B92-9B47-9C9C24300436}|MinimalApiTest\\MinimalApiTest.csproj|c:\\dev\\minimalapi\\minimalapitest\\minimalapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5390908-4084-4B92-9B47-9C9C24300436}|MinimalApiTest\\MinimalApiTest.csproj|solutionrelative:minimalapitest\\minimalapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5390908-4084-4B92-9B47-9C9C24300436}|MinimalApiTest\\MinimalApiTest.csproj|c:\\dev\\minimalapi\\minimalapitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5390908-4084-4B92-9B47-9C9C24300436}|MinimalApiTest\\MinimalApiTest.csproj|solutionrelative:minimalapitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\dominio\\servicos\\interfaces\\iadministradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:dominio\\servicos\\interfaces\\iadministradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\dominio\\servicos\\administradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:dominio\\servicos\\administradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\dominio\\servicos\\veiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:dominio\\servicos\\veiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|c:\\dev\\minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F119F9D-AB92-40FC-AAF2-C124B887E1F6}|MinimalApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinimalApiTest",
+              "DocumentMoniker": "C:\\dev\\MinimalApi\\MinimalApiTest\\MinimalApiTest.csproj",
+              "RelativeDocumentMoniker": "MinimalApiTest\\MinimalApiTest.csproj",
+              "ToolTip": "C:\\dev\\MinimalApi\\MinimalApiTest\\MinimalApiTest.csproj",
+              "RelativeToolTip": "MinimalApiTest\\MinimalApiTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T20:00:03.123Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -35,51 +48,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IAdministradorService.cs",
-              "DocumentMoniker": "C:\\dev\\MinimalApi\\Dominio\\Servicos\\Interfaces\\IAdministradorService.cs",
-              "RelativeDocumentMoniker": "Dominio\\Servicos\\Interfaces\\IAdministradorService.cs",
-              "ToolTip": "C:\\dev\\MinimalApi\\Dominio\\Servicos\\Interfaces\\IAdministradorService.cs",
-              "RelativeToolTip": "Dominio\\Servicos\\Interfaces\\IAdministradorService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAIA6wAwAAAAnAAAAAAAAAA==",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\dev\\MinimalApi\\MinimalApiTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MinimalApiTest\\UnitTest1.cs",
+              "ToolTip": "C:\\dev\\MinimalApi\\MinimalApiTest\\UnitTest1.cs",
+              "RelativeToolTip": "MinimalApiTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:41:48.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdministradorService.cs",
-              "DocumentMoniker": "C:\\dev\\MinimalApi\\Dominio\\Servicos\\AdministradorService.cs",
-              "RelativeDocumentMoniker": "Dominio\\Servicos\\AdministradorService.cs",
-              "ToolTip": "C:\\dev\\MinimalApi\\Dominio\\Servicos\\AdministradorService.cs",
-              "RelativeToolTip": "Dominio\\Servicos\\AdministradorService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAawBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:41:21.349Z",
+              "WhenOpened": "2025-01-08T19:58:01.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VeiculoService.cs",
-              "DocumentMoniker": "C:\\dev\\MinimalApi\\Dominio\\Servicos\\VeiculoService.cs",
-              "RelativeDocumentMoniker": "Dominio\\Servicos\\VeiculoService.cs",
-              "ToolTip": "C:\\dev\\MinimalApi\\Dominio\\Servicos\\VeiculoService.cs",
-              "RelativeToolTip": "Dominio\\Servicos\\VeiculoService.cs",
-              "ViewState": "AgIAAAQAAADQKzMzM7MSwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:41:11.048Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\MinimalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\dev\\MinimalApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T18:26:21.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\MinimalApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\dev\\MinimalApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwO8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAsczMzMzwvzUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T13:33:35.581Z",
               "EditorCaption": ""
