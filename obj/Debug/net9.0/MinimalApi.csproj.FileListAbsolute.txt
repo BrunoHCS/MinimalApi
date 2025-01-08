@@ -156,3 +156,4 @@ C:\dev\MinimalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dev\MinimalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\dev\MinimalApi\obj\Debug\net9.0\MinimalApi.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\MinimalApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\dev\MinimalApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
